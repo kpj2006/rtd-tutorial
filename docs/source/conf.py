@@ -28,7 +28,6 @@ myst_enable_extensions = [
     "fieldlist",        # Field lists
     "html_admonition",  # HTML-style admonitions
     "html_image",       # HTML images
-    "linkify",          # Auto-detect URLs
     "replacements",     # Text replacements
     "smartquotes",      # Smart quotes
     "strikethrough",    # ~~strikethrough~~
